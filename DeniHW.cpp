@@ -13,12 +13,8 @@ int jopa (int base, int stepen)
 
 int main()
 {
-    int a, b;
 
-    cin >> a;
-    cin >> b;
-
-    cout << jopa (a,b);
+    cout << "Первая правка";
 
     return (0);
 }
