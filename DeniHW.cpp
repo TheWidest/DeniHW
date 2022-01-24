@@ -14,7 +14,7 @@ int jopa (int base, int stepen)
 int main()
 {
 
-    cout << "Вторая правка";
+    cout << "Third commit, from Ubuntu";
 
     return (0);
 }
