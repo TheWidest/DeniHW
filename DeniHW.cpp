@@ -14,7 +14,7 @@ int jopa (int base, int stepen)
 int main()
 {
 
-    cout << "Первая правка";
+    cout << "Вторая правка";
 
     return (0);
 }
